@@ -23,7 +23,7 @@ DragonMaster是一款通用的的跨端流转软件
 
 龙虎 / DragonMaster
 
-基于 flutter_webrtc 开发。
+基于 [flutter_webrtc](https://github.com/flutter-webrtc/flutter-webrtc) 开发。
 
 Copyright © Weclont
 
