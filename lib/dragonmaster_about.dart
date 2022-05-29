@@ -25,7 +25,7 @@ class DragonMasterAboutScreen extends StatelessWidget {
                     margin: const EdgeInsets.all(3.0),
                     padding: const EdgeInsets.all(4.0),
                     child: const Text(
-                      '龙虎 / DragonMaster $appVersionName\n\n基于 flutter_webrtc 开发。\n\nCopyright © Weclont\n\n本应用遵循 GPT-2.0 协议。',
+                      '龙虎 / DragonMaster $appVersionName\n\n基于 flutter_webrtc 开发。\n\nCopyright © Weclont\n\n本应用遵循 Apache License 2.0 协议。',
                       style: TextStyle(
                         fontSize: 15,
                       ),

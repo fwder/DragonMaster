@@ -27,4 +27,4 @@ DragonMaster是一款通用的的跨端流转软件
 
 Copyright © Weclont
 
-本应用遵循 GPT-2.0 协议。
+本应用遵循 Apache License 2.0 协议。
