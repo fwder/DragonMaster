@@ -19,3 +19,12 @@ DragonMaster是一款通用的的跨端流转软件
 - 新增 视频传输
 - 新增 屏幕共享
 
+## 说明
+
+龙虎 / DragonMaster
+
+基于 flutter_webrtc 开发。
+
+Copyright © Weclont
+
+本应用遵循 GPT-2.0 协议。
